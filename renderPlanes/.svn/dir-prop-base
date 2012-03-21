@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 74
+Debug
+Release
+ipch
+renderPlanes.sdf
+renderPlanes.sln
+renderPlanes.suo
+x64
+
+END
